@@ -1,23 +1,24 @@
 body {
-	background: none repeat scroll 0 0 #0b192f;
+	background: none repeat scroll 0 0 black;
 	color: #fff;
     font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 	font-weight: 300;
 }
 nav {
-	background: none repeat scroll 0 0 #162b4d;
+	background: none repeat scroll 0 0 #363638;
 	position: relative;
 }
 a.logo {
 	color: #fff;
 	display: inline-block;
-	font-size: 2.3em;
+	font-size: 3em;
 	font-weight: 100;
 	letter-spacing: -1px;
 	padding: 0.6em;
+
 }
 a.logo span {
-	color: #d12767;
+	color: #e86809;
 }
 header h1 {
 	color: #637693;
@@ -119,7 +120,7 @@ section p {
 	text-align: right;
 }
 .post-1 {
-	background: none repeat scroll 0 0 #B71757;
+	background: none repeat scroll 0 0 #792012;
 }
 .post-2 {
 	background: none repeat scroll 0 0 #0D7E71;
@@ -134,7 +135,7 @@ section p {
 	background: none repeat scroll 0 0 #2d95bb;
 }
 .aside-block {
-	background: none repeat scroll 0 0 #fff;
+	background: none repeat scroll 0 0 #363638;
 	margin-bottom: 1.25em;
 	padding: 2em;
 }
@@ -157,7 +158,7 @@ aside p {
 	background: none repeat scroll 0 0 #fff;
 }
 footer {
-	background: none repeat scroll 0 0 #162b4d;
+	background: none repeat scroll 0 0 #363638;
 	display: inline-block;
 	margin-bottom: 0;
 	margin-top: 1.25em;
@@ -328,4 +329,40 @@ address p {
   footer {
   	text-align: center;
   }
+}
+.coming-soon{
+	color:white;
+	margin-left:-27px;
+	font-size: 13px;
+	font-family: 微软雅黑;
+	margin-top: 10px;
+}
+
+.coming-soon a {
+	color: white;
+	text-decoration: underline;
+}
+
+.coming-text{
+	color:white;
+	margin-left: -16px;
+	margin-top: -5px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	border-bottom: 5px;
+}
+.list-text{
+	margin-top: 3.5px;
+}
+
+.more{
+	color: white;
+	float: right;
+    margin-top: -4px;
+    font-size: 12px;
+    margin-right: -15px;
+}
+
+.movie{
+	color: white;
 }

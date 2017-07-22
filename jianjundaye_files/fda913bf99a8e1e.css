@@ -1,0 +1,106 @@
+
+            #content h2 {color:#007722;}
+            .indent {*zoom: 1; margin-bottom: 30px;}
+            .related-info h2, .related-pic h2, #recommendations h2{margin:24px 0 3px 0}
+        .comment_btn{display:inline-block;*display:inline;zoom:1;height:26px;padding:0 12px;line-height:26px;color:#ca6445;background:#fae9da;-webkit-border-radius:2px;-moz-border-radius:2px;-o-border-radius:2px;border-radius:2px}.comment_btn:link,.comment_btn:visited{color:#ca6445;background:#fae9da}.comment_btn:hover,.comment_btn:active{color:#d9896a;background:#fcefe3}.comment_btn{float:right}.year{display:inline-block;zoom:1}.bs li{position:relative}.bs li:last-of-type{border:none}
+
+
+        .discussion_link a{font-size: 14px; color: #999; }
+        .discussion_link a:hover{ color: #fff; background: #999;}
+        #mainpic img { max-width: 100px }
+    
+    .more-actor,
+    .more-actor:link {
+        color: #aaa;
+    }
+
+    .more-actor:hover{
+        color: #fff;
+        background: #aaa;
+    }
+
+  #celebrities *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#celebrities .celebrities-list{overflow:hidden;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;justify-content:space-between}#celebrities .celebrities-list li{display:inline-block;-webkit-box-flex:0 0 75px;-moz-box-flex:0 0 75px;-ms-flex:0 0 75px;-webkit-flex:0 0 75px;flex:0 0 75px}#celebrities .celebrities-list li.fake{margin-right:0}#celebrities .celebrities-list li.fake1{display:inline-block;-webkit-box-flex:1 0 75px;-moz-box-flex:1 0 75px;-ms-flex:1 0 75px;-webkit-flex:1 0 75px;flex:1 0 75px}#celebrities .celebrities-list li.fake2{display:inline-block;-webkit-box-flex:2 0 75px;-moz-box-flex:2 0 75px;-ms-flex:2 0 75px;-webkit-flex:2 0 75px;flex:2 0 75px}#celebrities .celebrities-list li.fake3{display:inline-block;-webkit-box-flex:3 0 75px;-moz-box-flex:3 0 75px;-ms-flex:3 0 75px;-webkit-flex:3 0 75px;flex:3 0 75px}#celebrities .celebrities-list li.fake4{display:inline-block;-webkit-box-flex:4 0 75px;-moz-box-flex:4 0 75px;-ms-flex:4 0 75px;-webkit-flex:4 0 75px;flex:4 0 75px}#celebrities .celebrities-list li.fake5{display:inline-block;-webkit-box-flex:5 0 75px;-moz-box-flex:5 0 75px;-ms-flex:5 0 75px;-webkit-flex:5 0 75px;flex:5 0 75px}#celebrities .celebrities-list.from-subject li .info{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#celebrities .celebrities-list.from-subject li .has-account ~ .info>span:not(.works){width:98.33333px}#celebrities .celebrities-list.from-subject li:first-child .avatar{margin-left:0}#celebrities .celebrities-list.from-subject li:first-child .info>span:not(.works){width:80px}#celebrities .celebrities-list.from-subject li:first-child .has-account ~ .info>span:not(.works){width:90px}#celebrities .celebrities-list .avatar{margin:0 auto;height:105px;background-repeat:no-repeat;background-size:75px 105px;background-position:center}#celebrities .celebrities-list .avatar.has-account{width:80px;background-size:44px 17px,75px 105px;background-position:0 84px,center}#celebrities .celebrities-list .info{margin:6px auto 0;display:block;text-align:center}#celebrities .celebrities-list .info>span:not(.works){overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:block;width:88.33333px;color:#9b9b9b}#celebrities .celebrities-list .info a.name:hover{background:#37a;color:white}#celebrities .celebrities-list .info span.name a{color:#111}
+
+
+.related-pic{margin-bottom:30px}.related-pic-hd span{font-size:12px}.related-pic-hd a{margin-right:8px}.related-pic-bd{margin-right:-3px;overflow:hidden;*zoom:1;letter-spacing:-0.31em;*letter-spacing:normal}.related-pic-bd li{display:inline-block;*display:inline;*zoom:1;vertical-align:top;letter-spacing:normal;margin-right:15px}.related-pic-bd.narrow li{margin-right:2px}.related-pic-video{position:relative;display:block;width:178px;overflow:hidden}.related-pic-video span{position:absolute;top:0;display:block;width:178px;height:100px;background:url(/f/movie/fafc0935c2a3a38023f246f6ea76f249a7b2d758/pics/movie/play_btn.png) center center no-repeat;background-color:rgba(0,0,0,0.25);_background:none;_top:26px;_left:65px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/pics/movie/play_btn.png',sizingMethod='crop')}.related-pic-add{width:100px;height:100px;line-height:100px;font-size:14px;background-color:#F7F7F7}.related-pic-add a{display:block;width:100%;text-align:center;letter-spacing:2px}.related-pic-add a:link,.related-pic-add a:visited,.related-pic-add a:hover,.related-pic-add a:focus,.related-pic-add a:active{background-color:#F7F7F7;color:#BCBCBC}.related-pic-hd .dots{margin:0 1em 0 1em}
+
+
+    #recommendations .recommendations-bd{margin-right:-18px;letter-spacing:-0.31em;*letter-spacing:normal}#recommendations .recommendations-bd dl{display:inline-block;*display:inline;*zoom:1;vertical-align:top;letter-spacing:normal;word-spacing:normal;letter-spacing:normal;margin:0 18px 15px 0;overflow:hidden}#recommendations .recommendations-bd dt,#recommendations .recommendations-bd dd{width:100px}#recommendations .recommendations-bd dt{height:145px;margin-bottom:8px;overflow:hidden}#recommendations .recommendations-bd dd{font-size:13px;text-align:center}
+
+
+.tags {
+    margin-bottom:30px;
+}
+.tags-body {
+    line-height:24px;
+    letter-spacing:-0.31em;
+    *letter-spacing:normal;
+}
+.tags-body a {
+    display:inline-block;
+    *display:inline;
+    letter-spacing:normal;
+    margin:0 8px 8px 0;
+    padding:0 8px;
+    background-color:#f5f5f5;
+    -webkit-border-radius:2px;
+       -moz-border-radius:2px;
+            border-radius:2px;
+}
+
+.tags-body a:link,
+.tags-body a:visited {
+    background-color:#f5f5f5;
+    color: #37A;
+}
+
+.tags-body a:hover,
+.tags-body a:active {
+    background-color: #e8e8e8;
+    color: #37A;
+}
+
+#subject-doulist {
+    margin-bottom: 40px;
+    word-wrap: break-word;
+}
+#subject-doulist ul {
+    border-top: 1px dashed #DDD;
+}
+#subject-doulist li {
+    padding: 4.5px 0;
+    border-bottom: 1px dashed #DDD;
+}
+#subject-doulist li span {
+    line-height: 1.5;
+    color: #666;
+}
+#subject-doulist .doulist-add-btn {
+    float: none;
+    margin-top: 5px;
+}
+
+#subject-others-interests {
+    margin-bottom: 40px;
+    word-wrap: break-word;
+}
+#subject-others-interests ul {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+#subject-others-interests li {
+    overflow: hidden;
+    *zoom: 1;
+    padding: 12px 0;
+    border-bottom: 1px dashed #DDD;
+    line-height: 1.5;
+    color: #666;
+}
+#subject-others-interests .others-interest-avatar {
+    float: left;
+    margin-right: 12px;
+}
+#subject-others-interests .others-interest-info {
+    overflow: hidden;
+    *zoom: 1;
+}
